@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testing_in_android_part2</string>
+    <string name="stringToTest1">String to test 1</string>
+    <string name="stringToTest2">String to test 2</string>
+</resources>
